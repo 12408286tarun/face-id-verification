@@ -1,0 +1,12 @@
+.env
+*.env
+
+venv/
+__pycache__/
+*.pyc
+
+uploads/
+
+node_modules/
+artifacts/
+cache/
